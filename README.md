@@ -43,7 +43,7 @@ e.g:
 More Info
 ---------
 
-[getyslow.com](http://getyslow.com)
+[yslow.org](http://yslow.org)
 
 Licensing
 ---------
